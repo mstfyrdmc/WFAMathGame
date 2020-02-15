@@ -1,0 +1,10 @@
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\bin\Debug\WFAMathGame.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\bin\Debug\WFAMathGame.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\bin\Debug\WFAMathGame.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\obj\Debug\WFAMathGame.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\obj\Debug\WFAMathGame.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\obj\Debug\WFAMathGame.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\obj\Debug\WFAMathGame.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\obj\Debug\WFAMathGame.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\obj\Debug\WFAMathGame.exe
+C:\Users\Mustafa YARDIMCI\Desktop\Bilge Adamlar Slaytlar - Ödevler - Projeler\tekrarlar\WFAMathGame\WFAMathGame\obj\Debug\WFAMathGame.pdb
